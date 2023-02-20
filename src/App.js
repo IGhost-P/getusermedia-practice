@@ -34,7 +34,7 @@ function App() {
       if (isNaN(height)) {
         setHeight(width / (4 / 3));
       }
-
+      Å;
       video.current.setAttribute("width", 400);
       video.current.setAttribute("height", 300);
       canvas.current.setAttribute("width", 400);
